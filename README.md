@@ -114,25 +114,32 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ---
 
-# 8. Evidences Collected
+# 8. Evidences Collected 
+
 
 <img width="1920" height="891" alt="Screenshot_2026-09-29_07_22_20" src="https://github.com/user-attachments/assets/4ec70b99-5ef9-43d4-8f3f-a00959d2975d" />
 
+
 <img width="1920" height="891" alt="Screenshot_2026-09-29_08_17_27" src="https://github.com/user-attachments/assets/024f6eab-ef0e-46cc-9c4a-802835ab6063" />
+
 
 <img width="1920" height="891" alt="Screenshot_2026-09-29_14_31_36" src="https://github.com/user-attachments/assets/8a03d3af-1b0b-4176-a385-e994cbdd34da" />
 
+
 <img width="1920" height="891" alt="Screenshot_2026-09-29_14_40_32" src="https://github.com/user-attachments/assets/2c7452c9-e67e-4b38-81f8-f91948c0ece5" />
+
 
 <img width="1920" height="891" alt="Screenshot_2026-09-29_14_48_58" src="https://github.com/user-attachments/assets/024f41d1-733b-4379-8788-6a432ae3dec2" />
 
+
 <img width="1920" height="891" alt="Screenshot_2026-09-29_19_04_12" src="https://github.com/user-attachments/assets/22948514-1bfb-4361-ad75-f21d69bb0ec4" />
 
-<img width="1878" height="989" alt="Screenshot 2026-09-29 213107" src="https://github.com/user-attachments/assets/b66afdd4-4ec8-4f41-a06c-6665b1e32d41" />
 
-<img width="1191" height="572" alt="Screenshot 2026-09-30 153748" src="https://github.com/user-attachments/assets/d17f0df2-23a9-4ced-9da3-53b5a3619c86" /> 
+<img width="1191" height="572" alt="Screenshot 2026-09-30 153748" src="https://github.com/user-attachments/assets/bb5ce12f-1d7c-436d-912c-795f8515d722" />
 
-<img width="1887" height="990" alt="Screenshot 2026-09-30 154252" src="https://github.com/user-attachments/assets/2ec60423-bfc3-4913-ac1c-ab1426316c50" />
+
+<img width="1887" height="990" alt="Screenshot 2026-09-30 154252" src="https://github.com/user-attachments/assets/bb77b16b-3e6a-4e6a-9876-35335118c547" />
+
 
 <img width="1905" height="1002" alt="Screenshot 2026-09-30 155248" src="https://github.com/user-attachments/assets/e4fc8d45-b886-4834-af74-5aab1c571be8" />
 
