@@ -107,7 +107,7 @@ Reconnaissance and scanning should only be performed against systems and network
 
 ---
   
-# $\textcolor{blue}{\text{7. Conclusion.}}$ 
+### $\textcolor{blue}{\text{7. Conclusion.}}$ 
 
 During Week 2 of my Cybersecurity & Ethical Hacking internship, I completed practical activities covering footprinting, reconnaissance and network scanning.
 In the footprinting activity, I used six Kali Linux tools to collect information about the target domain. I learned how WHOIS can provide domain information, WhatWeb can identify web technologies, Nslookup can resolve domain names, Curl can inspect HTTP headers, Wafw00f can identify a WAF, and DNSRecon can provide additional DNS information.
@@ -150,8 +150,8 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 **Author**
 **Halimah Daramola**
-Cybersecurity Professional B082
-Linkedln: https://www.linkedin.com/in/halimah-daramola-63663a194?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+ | Cybersecurity Professional B082 |
+ Linkedln: https://www.linkedin.com/in/halimah-daramola-63663a194?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 - Project Information
